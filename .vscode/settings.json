@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\Abhishek\\envs\\test\\Scripts\\python.exe",
+    "emmet.includeLanguages": { "javascript": "html" },
+    "emmet.showSuggestionsAsSnippets": true,
+    "files.associations": {
+    "*html": "html", 
+    "*njk": "html",
+"python.linting.pylintArgs": [
+         "--load-plugins=pylint_django"
+],}}
